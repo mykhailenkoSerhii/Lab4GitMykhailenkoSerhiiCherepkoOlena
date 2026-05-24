@@ -1,1 +1,2 @@
 void example1();
+void example2();
